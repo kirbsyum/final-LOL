@@ -1,0 +1,44 @@
+.page{
+    background-color:rgb(107, 62, 107);
+    font-family:"Titan One";
+    width:200px;
+    margin:0 auto;
+    
+}
+
+.titan-one-regular {
+  font-family: "Titan One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    font-family:"Titan One";
+    color:white;
+    height:50px;
+    text-align:center;
+    font-size:50px;
+}
+
+html{
+    background-color: rgb(53, 18, 45);
+}
+
+p{
+    color:white;
+    height:50px;
+    text-align:center;
+    font-family:"Titan One";
+
+}
+
+.front{
+background-color:rgb(141, 45, 143);
+}
+
+.dateOne{
+    width:200px;
+    height:200px;
+    align-items:center;
+    text-align:center;
+}
